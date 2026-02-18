@@ -1,1 +1,1 @@
-#This is Just GitHub Tutorial
+# appimagetool ![Downloads](https://img.shields.io/github/downloads/muhammadsohailraza/sample/total.svg)
