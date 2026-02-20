@@ -1,1 +1,1 @@
-# appimagetool ![Downloads](https://img.shields.io/github/downloads/muhammadsohailraza/sample/total.svg)
+# appimagetool ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/muhammadsohailraza/sample/total)
